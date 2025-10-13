@@ -1,0 +1,27 @@
+{
+    "about_text": "WebDev Pro olarak, 2025 yılından bu yana dijital dünyada markaları başarıya ulaştırmak için çalışıyoruz. Uzman ekibimiz, en son teknolojileri kullanarak modern, kullanıcı dostu ve performanslı web çözümleri geliştirmektedir.\r\n\r\n",
+    "why_choose_items": [
+        "Modern teknolojiler ve en iyi yazılım pratikleri",
+        "Modern teknolojiler ve en iyi yazılım pratikleri",
+        "Modern teknolojiler ve en iyi yazılım pratikleri",
+        "Modern teknolojiler ve en iyi yazılım pratikleri"
+    ],
+    "stats": [
+        {
+            "value": "0+",
+            "label": "Mutlu Müşteri"
+        },
+        {
+            "value": "0+",
+            "label": "Tamamlanan Proje"
+        },
+        {
+            "value": "1",
+            "label": "Yıl Tecrübe"
+        },
+        {
+            "value": "100%",
+            "label": "Başarı Oranı"
+        }
+    ]
+}

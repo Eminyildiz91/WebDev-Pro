@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Kurumsal Web Sitesi ",
+        "description": "Markanızı en iyi şekilde yansıtan, profesyonel ve modern web siteleri geliştiriyoruz.",
+        "features": [
+            "Responsive Tasarım\r\nSEO Optimizasyonu\r\nHızlı Yükleme"
+        ]
+    },
+    {
+        "title": "E-Ticaret Çözümleri",
+        "description": "Satışlarınızı artıracak, güvenli ve kullanıcı dostu e-ticaret platformları.",
+        "features": [
+            "Ödeme Entegrasyonu\r\nStok Yönetimi\r\nMobil Uyumlu"
+        ]
+    },
+    {
+        "title": "Mobil Uygulama",
+        "description": "iOS ve Android için native ve hibrit mobil uygulamalar geliştiriyoruz.",
+        "features": [
+            "Cross-Platform\r\nPush Notification\r\nOffline Destek"
+        ]
+    },
+    {
+        "title": "SEO Optimizasyonu",
+        "description": "Google'da üst sıralarda yer almanızı sağlayacak SEO stratejileri uyguluyoruz.",
+        "features": [
+            "Anahtar Kelime Analizi\r\nTeknik SEO\r\nİçerik Optimizasyonu"
+        ]
+    },
+    {
+        "title": "Performans Optimizasyonu",
+        "description": "Web sitenizin hızını artırıp, kullanıcı deneyimini iyileştiriyoruz.",
+        "features": [
+            "Hız Optimizasyonu\r\nKod Minifikasyonu\r\nCloudflare CDN Entegrasyonu"
+        ]
+    },
+    {
+        "title": "Güvenlik & Bakım",
+        "description": "Web sitenizin güvenliğini sağlıyor ve düzenli bakımını yapıyoruz.",
+        "features": [
+            "SSL Sertifikası\r\nDüzenli Backup\r\nGüvenlik Güncellemeleri"
+        ]
+    }
+]

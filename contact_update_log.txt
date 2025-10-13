@@ -1,0 +1,104 @@
+
+
+2025-07-16 09:09:05 - Çalışma saatleri güncelleniyor
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı
+Güncelleniyor: saturday = 10:00 - 17:00, sonuç: başarılı
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı
+
+
+2025-07-16 09:20:37 - Güncelleme başlatıldı
+Mevcut iletişim bilgileri: [{"id":1,"title":"E-posta","info":"info@webdevpro.com","is_visible":1},{"id":2,"title":"Telefon","info":"+90 (555) 123-4567","is_visible":1},{"id":3,"title":"WhatsApp","info":"+90 (555) 123-4567","is_visible":1},{"id":4,"title":"Adres","info":"Levent Mahallesi\r\nB\u00fcy\u00fckdere Caddesi No:123\r\n\u015ei\u015fli, \u0130stanbul","is_visible":1}]
+Güncelleniyor: E-posta = info@webdevpro.com, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Telefon =  90 (555) 123-4567, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: WhatsApp =  90 (555) 123-4567, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Adres = Levent Mahallesi\nBüyükdere Caddesi No:123\nŞişli, İstanbul, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-07-16 09:20:37 - Çalışma saatleri güncelleniyor
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: saturday = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-07-16 09:21:43 - Güncelleme başlatıldı
+Mevcut iletişim bilgileri: [{"id":1,"title":"E-posta","info":"info@webdevpro.com"},{"id":2,"title":"Telefon","info":"+90 (555) 123-4567"},{"id":3,"title":"Adres","info":"Levent MahallesiB\u00fcy\u00fckdere Caddesi No:123\u015ei\u015fli, \u0130stanbul"}]
+ID ile güncelleniyor: E-posta (ID: 1) = info@webdevpro.com, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: E-posta = info@webdevpro.com, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: Telefon (ID: 2) = +90 (555) 123-4567, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: Telefon = +90 (555) 123-4567, sonuç: başarılı (Etkilenen: 0)
+HATA: WhatsApp için ID bulunamadı!
+Güncelleniyor: WhatsApp = +90 (555) 123-4567, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: Adres (ID: 3) = Levent MahallesiBüyükdere Caddesi No:123Şişli, İstanbul, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: Adres = Levent MahallesiBüyükdere Caddesi No:123Şişli, İstanbul, sonuç: başarılı (Etkilenen: 0)
+
+
+2025-07-16 09:21:43 - Çalışma saatleri güncelleniyor
+ID ile güncelleniyor: weekday (ID: 1) = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: saturday (ID: 2) = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: saturday = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: sunday (ID: 3) = Kapalı, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı (Etkilenen: 0)
+
+
+2025-07-16 09:25:22 - Güncelleme başlatıldı
+Mevcut iletişim bilgileri: [{"id":1,"title":"E-posta","info":"info@webdevpro.com","is_visible":1},{"id":2,"title":"Telefon","info":" 90 (555) 123-4567","is_visible":1},{"id":3,"title":"WhatsApp","info":" 90 (555) 123-4567","is_visible":1},{"id":4,"title":"Adres","info":"Levent Mahallesi\\nB\u00fcy\u00fckdere Caddesi No:123\\n\u015ei\u015fli, \u0130stanbul","is_visible":1}]
+Güncelleniyor: E-posta = info@webdevpro.com, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Telefon =  90 (554) 207 88 88, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: WhatsApp =  90 (554) 207 88 88, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Adres = Levent Mahallesi Büyükdere Caddesi No:123 Şişli, İstanbul, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-07-16 09:25:22 - Çalışma saatleri güncelleniyor
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: saturday = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-07-16 09:29:22 - Güncelleme başlatıldı
+Mevcut iletişim bilgileri: [{"id":1,"title":"E-posta","info":"info@webdevpro.com"},{"id":2,"title":"Telefon","info":"+90 (555) 123-4567"},{"id":3,"title":"Adres","info":"Levent MahallesiB\u00fcy\u00fckdere Caddesi No:123\u015ei\u015fli, \u0130stanbul"}]
+ID ile güncelleniyor: E-posta (ID: 1) = info@webdevpro.com, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: E-posta = info@webdevpro.com, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: Telefon (ID: 2) = +90 (555) 123-4567, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: Telefon = +90 (555) 123-4567, sonuç: başarılı (Etkilenen: 0)
+HATA: WhatsApp için ID bulunamadı!
+Güncelleniyor: WhatsApp = +90 (555) 123-4567, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: Adres (ID: 3) = Levent MahallesiBüyükdere Caddesi No:123Şişli, İstanbul, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: Adres = Levent MahallesiBüyükdere Caddesi No:123Şişli, İstanbul, sonuç: başarılı (Etkilenen: 0)
+
+
+2025-07-16 09:29:22 - Çalışma saatleri güncelleniyor
+ID ile güncelleniyor: weekday (ID: 1) = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: saturday (ID: 2) = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: saturday = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 0)
+ID ile güncelleniyor: sunday (ID: 3) = Kapalı, sonuç: başarılı (Etkilenen: 0)
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı (Etkilenen: 0)
+
+
+2025-09-30 19:14:58 - Güncelleme başlatıldı
+Mevcut iletişim bilgileri: [{"id":1,"title":"E-posta","info":"info@webdevpro.com","is_visible":1},{"id":2,"title":"Telefon","info":" 90 (554) 207 88 88","is_visible":1},{"id":3,"title":"WhatsApp","info":" 90 (554) 207 88 88","is_visible":1},{"id":4,"title":"Adres","info":"Levent Mahallesi B\u00fcy\u00fckdere Caddesi No:123 \u015ei\u015fli, \u0130stanbul","is_visible":1}]
+Güncelleniyor: E-posta = info@webdevpro.com, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Telefon =  90 (554) 357 90 90, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: WhatsApp =  90 (554) 357 90 90, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Adres = Levent Mahallesi Büyükdere Caddesi No:123 Şişli, İstanbul, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-09-30 19:14:58 - Çalışma saatleri güncelleniyor
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: saturday = 10:00 - 17:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-09-30 19:15:55 - Güncelleme başlatıldı
+Mevcut iletişim bilgileri: [{"id":1,"title":"E-posta","info":"info@webdevpro.com","is_visible":1},{"id":2,"title":"Telefon","info":" 90 (554) 357 90 90","is_visible":1},{"id":3,"title":"WhatsApp","info":" 90 (554) 357 90 90","is_visible":1},{"id":4,"title":"Adres","info":"Levent Mahallesi B\u00fcy\u00fckdere Caddesi No:123 \u015ei\u015fli, \u0130stanbul","is_visible":1}]
+Güncelleniyor: E-posta = info@webdevpro.com, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Telefon =  90 (554) 357 90 90, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: WhatsApp =  90 (554) 357 90 90, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: Adres = Levent Mahallesi Büyükdere Caddesi No:123 Şişli, İstanbul, görünür: 1, sonuç: başarılı (Etkilenen: 1)
+
+
+2025-09-30 19:15:55 - Çalışma saatleri güncelleniyor
+Güncelleniyor: weekday = 09:00 - 18:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: saturday = 10:00 - 15:00, sonuç: başarılı (Etkilenen: 1)
+Güncelleniyor: sunday = Kapalı, sonuç: başarılı (Etkilenen: 1)

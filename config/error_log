@@ -1,0 +1,10 @@
+[25-Sep-2025 10:44:41 UTC] PHP Warning:  Undefined variable $pdo in /home/eminyild/public_html/config/setup_admin_table.php on line 6
+[25-Sep-2025 10:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/eminyild/public_html/config/setup_admin_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eminyild/public_html/config/setup_admin_table.php on line 6
+[25-Sep-2025 10:44:43 UTC] PHP Warning:  Undefined variable $pdo in /home/eminyild/public_html/config/setup_admin_table.php on line 6
+[25-Sep-2025 10:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/eminyild/public_html/config/setup_admin_table.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eminyild/public_html/config/setup_admin_table.php on line 6
